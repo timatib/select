@@ -1,0 +1,10 @@
+.wrapper {
+  margin-top: 50px;
+  min-width: 600px;
+
+  :global {
+    .select-container {
+      margin-left: 30px;
+    }
+  }
+}
